@@ -1,6 +1,6 @@
 ### Hi there, I'm Subha 👋
 
-## I'm a Passionate Front-End Developer 
+## I'm a Passionate Web Developer 
 
 - 👩‍💻 I'm currently working on my React projects 
 - 💻 I'm learning Node js as well as python
