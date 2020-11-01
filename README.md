@@ -3,7 +3,7 @@
 ## I'm a Passionate Web Developer 
 
 - 👩‍💻 I'm currently working on my React projects 
-- 💻 I'm learning Node js as well as python
+- 💻 I'm learning MERN stack
 - 🚧 2020 Goal: Become a Full-stack Web Developer
 
 ### Languages and Tools:
