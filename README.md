@@ -4,7 +4,7 @@
 
 - 👩‍💻 I'm currently working on my React projects 
 - 💻 I'm learning MERN stack
-- 🚧 2021 Goal: Become a Full-stack Web Developer
+- 🚧 2022 Goal: Become a Full-stack Web Developer
 
 ### Languages and Tools:
 <img align="left" alt="html" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
